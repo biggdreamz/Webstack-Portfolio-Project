@@ -19,7 +19,7 @@ function About() {
       <SearchBar header="Let's Find A Property That Meets Your Need" />
       <br className=""></br>
       <Credibility header="Why Trust Us" text="We Guarantee Quality Delivery" />
-      <Team header="Our Team" text="Meet Our Amazing Team" />
+      <Team header="Our Team" text="Meet The Author" />
       <Footer />
     </div>
   );

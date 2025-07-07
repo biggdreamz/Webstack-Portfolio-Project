@@ -15,16 +15,16 @@ const ExpertSection = (props) => {
         {/* property-card-container */}
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           <div className="p-2">
-            <ExpertCard name="Lucy Jane" linkedin="" contact="" />
+            <ExpertCard name="Jane Doe" linkedin="" contact="" />
           </div>
           <div className="p-2">
-            <ExpertCard name="Zelipha On" linkedin="" contact="" />
+            <ExpertCard name="John Doe" linkedin="" contact="" />
           </div>
           <div className="p-2">
-            <ExpertCard name="Mildred Uz" linkedin="" contact="" />
+            <ExpertCard name="Sadiq Abdul" linkedin="" contact="" />
           </div>
           <div className="p-2">
-            <ExpertCard name="Robert Az" linkedin="" contact="" />
+            <ExpertCard name="Adeiza Kojo" linkedin="" contact="" />
           </div>
         </div>
         <div className="w-full pt-10 flex justify-center">
