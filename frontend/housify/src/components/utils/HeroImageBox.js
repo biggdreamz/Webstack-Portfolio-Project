@@ -1,5 +1,6 @@
 import React from "react";
-//import House from "../../assets/h1.jpg";
+import h1 from "../../assets/h1.jpg";
+import h2 from "../../assets/h2.jpg";
 
 const HeroImageBox = (props) => {
   return (
@@ -7,8 +8,8 @@ const HeroImageBox = (props) => {
       <div className="img-wrap overflow-hidden bg-zinc-700 rounded-[100px] rounded-tr-none sm:w-[90%] md:ml-auto relative">
         <img
           className="w-full h-[75vh] object-cover"
-          src={props.url}
-          alt="featured foto"
+          src={h2}
+          alt="h1"
         />
       </div>
       <div className="absolute top-[75%]">

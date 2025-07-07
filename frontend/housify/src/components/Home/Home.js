@@ -1,4 +1,5 @@
 import React from "react";
+import h2 from "../../assets/h1.jpg";
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 import HeroImageBox from "../utils/HeroImageBox";
@@ -26,8 +27,7 @@ function Home() {
               <p className="text-xl mb-10">Let's help you find a home that is perfect for you</p>
               <SearchButton />
             </div>
-            {<HeroImageBox p="Featured Homes" url ={items[0]?.url}/>}
-            {/* <HeroImageBox p="Featured Homes" url ={false | require("../../assets/h2.jpg")}/> */}
+            {<HeroImageBox p="Featured Homes" url ={true | require("../../assets/h2.jpg")}/>}
           </div>
         </div>
       </section>

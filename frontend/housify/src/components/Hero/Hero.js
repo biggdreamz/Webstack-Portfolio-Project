@@ -1,4 +1,4 @@
-import HeroImageBox from "../utils/HeroImageBox";
+import HeroImageBox from "../utils/HeroImageBox.js";
 import useFetch from "../utils/useFetch";
 
 const Hero = (props) => {
