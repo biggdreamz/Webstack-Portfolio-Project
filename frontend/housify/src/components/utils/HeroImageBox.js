@@ -9,7 +9,7 @@ const HeroImageBox = (props) => {
         <img
           className="w-full h-[75vh] object-cover"
           src={h2}
-          alt="h1"
+          alt="h2"
         />
       </div>
       <div className="absolute top-[75%]">

@@ -1,5 +1,5 @@
 import React from "react";
-import h2 from "../../assets/h1.jpg";
+import h1 from "../../assets/h1.jpg";
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 import HeroImageBox from "../utils/HeroImageBox";
